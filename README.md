@@ -6,3 +6,8 @@
 ![4](https://user-images.githubusercontent.com/66793851/95689190-bb930180-0c2c-11eb-891f-40eff8ef9b91.JPG)
 ![5](https://user-images.githubusercontent.com/66793851/95689191-bc2b9800-0c2c-11eb-945c-f304b14a99a1.JPG)
 ![1](https://user-images.githubusercontent.com/66793851/95689193-bc2b9800-0c2c-11eb-9d52-f8224e550b2c.JPG)
+
+![video_20201012_011750](https://user-images.githubusercontent.com/66793851/95689441-60faa500-0c2e-11eb-84d8-db0b9a99deb9.gif
+
+
+
