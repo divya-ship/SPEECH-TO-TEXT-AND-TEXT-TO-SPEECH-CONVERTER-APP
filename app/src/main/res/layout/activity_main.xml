@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@android:color/background_light"
+    android:layout_height="match_parent"
+
+    tools:context=".MainActivity">
+
+
+    <Button
+        android:id="@+id/buttonmic"
+        android:layout_width="171dp"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="40dp"
+        android:background="#AEEA00"
+         android:onClick="btnspeech"
+        android:drawableLeft="@drawable/ic_mic_black_24dp"
+        android:text="Speech to Text" />
+
+
+    <TextView
+        android:id="@+id/textview"
+        android:layout_width="344dp"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:gravity="center"
+        android:hint="convert speech to text and viceversa"
+        android:textColor="#0A0A0A"
+        android:textSize="30dp" />
+
+    <Button
+        android:id="@+id/listen"
+        android:layout_width="275dp"
+        android:layout_height="wrap_content"
+
+
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="30dp"
+        android:background="#FFD600"
+        android:text="Text to speech" />
+
+    <EditText
+        android:id="@+id/e1"
+        android:layout_width="395dp"
+        android:layout_height="55dp"
+        android:layout_above="@+id/listen"
+        android:layout_marginHorizontal="10dp"
+        android:layout_marginBottom="33dp"
+        android:hint="Enter Your Text"
+        android:textAlignment="textStart" />
+
+</RelativeLayout>
+
